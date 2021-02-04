@@ -16,7 +16,7 @@ I'm a computer science student with passion for coding. I really love problem so
 [![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
 [![MYSQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](#)
-
+[![StackOverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#) :)
 
 #### Contact Information
 Email: <a href="mailto:fars.bein@ryerson.ca">fars.bein@ryerson.ca</a> Linkedin: [linkedin.com/in/fars-bein](https://www.linkedin.com/in/fars-bein/)
