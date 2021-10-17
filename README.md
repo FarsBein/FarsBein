@@ -4,7 +4,7 @@ I'm a computer science student with passion for coding. I really love problem so
 
 <!-- I have dabbled in many different skills at some point my friends started calling me Jack of All Trades. -->
 
-#### Languages and Technologies I use
+#### Languages and Technologies I Use
 [![Javascript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://camo.githubusercontent.com/7858f416aa93ee56048ca2eb473bdde10002398fc4ff05e08faf6cb3cbb5bce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612532302d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](#) 
