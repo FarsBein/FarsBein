@@ -1,6 +1,6 @@
 ## Hi I'm Fars <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a computer science student with passion for coding. I really love problem solving and the creativity that invloves coming up with out of the box solutions. Besides programming I enjoy lifting weights, playing chess, reading manga, playing soccer and playing fps games from time to time (currently enjoying overwatch). 
+I'm a computer science student with passion for coding. I really love problem solving and the creativity that involves coming up with out of the box solutions. Besides programming I enjoy lifting weights, playing chess, reading manga, playing soccer and playing fps games from time to time (currently enjoying overwatch). 
 
 <!-- I have dabbled in many different skills at some point my friends started calling me Jack of All Trades. -->
 
