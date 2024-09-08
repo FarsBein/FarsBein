@@ -1,4 +1,4 @@
-Hey there! I'm a developer who loves building cool stuff. I enjoy diving into new ideas, making apps that simplify my life, and sharing my learning journey along the way. 
+Hey there! I'm a developer who loves building stuff. I enjoy diving into new ideas, making apps that simplify my life, and sharing my learning journey along the way. 
 
 #### Contact Information
 - Email: <a href="mailto:fars.bein@ryerson.ca">fars.bein@ryerson.ca</a> 
